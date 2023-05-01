@@ -1,0 +1,22 @@
+
+main{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content{
+  font-size: 18px;
+  display: flex;
+  flex-wrap: wrap;
+  
+  width: 500px;
+  padding: 20px;
+  background-color: hsl(216, 50%, 16%);
+}
+
+.name{
+  color: hsl(0, 0%, 100%);
+}
